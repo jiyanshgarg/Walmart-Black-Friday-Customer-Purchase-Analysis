@@ -101,3 +101,6 @@ This project demonstrates how statistical reasoning can:
 - Improve segmentation strategy evaluation
 
 It showcases practical application of probability, statistics, and business analytics on real-world retail data and reflects industry-ready analytical thinking.
+
+## **Dashboard** 
+Link :- https://public.tableau.com/app/profile/jiyansh.garg/viz/WalmartCustomerPurchaseBehavior_17671770715990/Dashboard?publish=yes
