@@ -9,15 +9,9 @@ The project demonstrates how data-driven decision-making can be supported using 
 
 ## **Business Problem**
 
-Retail leaders often ask:
+Walmart’s management wants to understand whether customer spending behavior differs across gender, age group, and marital status during Black Friday sales.
 
-- Do different customer segments actually spend differently?
-
-- Are observed spending differences meaningful at the population level?
-
-- Can marketing and pricing decisions rely on sample-level insights?
-
-Simple averages can be misleading at scale. This project addresses that gap by applying sampling distributions and confidence intervals to evaluate whether demographic differences in spending are statistically significant and business-relevant.
+The goal is to identify whether demographic-based targeting strategies would lead to meaningful business impact or whether observed differences are due to sampling variability.
 
 ## **Objectives**
 
@@ -104,3 +98,4 @@ It showcases practical application of probability, statistics, and business anal
 
 ## **Dashboard** 
 Link :- https://public.tableau.com/app/profile/jiyansh.garg/viz/WalmartCustomerPurchaseBehavior_17671770715990/Dashboard?publish=yes
+
